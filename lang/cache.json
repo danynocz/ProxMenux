@@ -1,5 +1,6 @@
 {
   "Language changed to": {
+    "cs": "Jazyk změněn na",
     "es": "Idioma cambiado a",
     "fr": "Langue changée en",
     "de": "Sprache geändert zu",
@@ -7,6 +8,7 @@
     "pt": "Idioma alterado para"
   },
   "Main Menu": {
+    "cs": "Hlavní menu",
     "es": "Menú principal",
     "fr": "Menu principal",
     "de": "Hauptmenü",
@@ -14,6 +16,7 @@
     "pt": "Menu principal"
   },
   "Select an option:": {
+    "cs": "Vyberte možnost:",
     "es": "Seleccione una opción:",
     "fr": "Sélectionnez une option :",
     "de": "Wählen Sie eine Option aus:",
@@ -21,20 +24,15 @@
     "pt": "Selecione uma opção:"
   },
   "GPUs and Coral-TPU": {
+    "cs": "GPU a Coral-TPU",
     "es": "GPUs y Coral-TPU",
     "fr": "GPUs et Coral-TPU",
     "de": "GPUs und Coral-TPU",
     "it": "GPUs e Coral-TPU",
     "pt": "GPUs e Coral-TPU"
   },
-  "Hard Drives, Disk Images, and Storage": {
-    "es": "Discos duros, imágenes de disco y almacenamiento",
-    "fr": "Disques durs, images disque et stockage",
-    "de": "Festplatten, Festplattenabbilder und Speicherplatz",
-    "it": "Dischi rigidi, immagini del disco e archiviazione",
-    "pt": "Discos rígidos, imagens de disco e armazenamento"
-  },
   "Network": {
+    "cs": "Síť",
     "es": "Red",
     "fr": "Réseau",
     "de": "Netzwerk",
@@ -42,6 +40,7 @@
     "pt": "Rede"
   },
   "Settings": {
+    "cs": "Nastavení",
     "es": "Configuración",
     "fr": "Paramètres",
     "de": "Einstellungen",
@@ -49,62 +48,23 @@
     "pt": "Configurações"
   },
   "Exit": {
+    "cs": "Ukončit",
     "es": "Salir",
     "fr": "Quitter",
     "de": "Beenden",
     "it": "Esci",
     "pt": "Sair"
   },
-  "HW: GPUs and Coral": {
-    "es": "HW: GPUs y Coral",
-    "fr": "HW: GPUs et Coral",
-    "de": "HW: GPUs und Coral",
-    "it": "HW: GPUs e Coral",
-    "pt": "HW: GPUs e Coral"
-  },
-  "Return to Main Menu": {
-    "es": "Volver al menú principal",
-    "fr": "Retour au menu principal",
-    "de": "Zum Hauptmenü zurückkehren",
-    "it": "Torna al menu principale",
-    "pt": "Retornar ao menu principal"
-  },
-  "Disk and Storage Menu": {
-    "es": "Menú de discos y almacenamiento",
-    "fr": "Menu des disques et stockage",
-    "de": "Datenträger- und Speichermenü",
-    "it": "Menu dischi e archiviazione",
-    "pt": "Menu de discos e armazenamento"
-  },
-  "Add Disk Passthrough to a VM": {
-    "es": "Añadir disco Passthrough a una VM",
-    "fr": "Ajouter un disque Passthrough à une VM",
-    "de": "Disk-Passthrough zu einer VM hinzufügen",
-    "it": "Aggiungi passthrough del disco a una VM",
-    "pt": "Adicionar passthrough de disco a uma VM"
-  },
-  "Network Menu": {
-    "es": "Menú de red",
-    "fr": "Menu réseau",
-    "de": "Netzwerkmenü",
-    "it": "Menu di rete",
-    "pt": "Menu de rede"
-  },
   "Repair Network": {
+    "cs": "Opravit síť",
     "es": "Reparar red",
     "fr": "Réparer le réseau",
     "de": "Netzwerk reparieren",
     "it": "Riparare la rete",
     "pt": "Reparar rede"
   },
-  "Configuration Menu": {
-    "es": "Menú de configuración",
-    "fr": "Menu de configuration",
-    "de": "Konfigurationsmenü",
-    "it": "Menu di configurazione",
-    "pt": "Menu de configuração"
-  },
   "Change Language": {
+    "cs": "Změnit jazyk",
     "es": "Cambiar idioma",
     "fr": "Changer de langue",
     "de": "Sprache ändern",
@@ -112,6 +72,7 @@
     "pt": "Alterar idioma"
   },
   "Show Version Information": {
+    "cs": "Zobrazit informace o verzi",
     "es": "Mostrar información de la versión",
     "fr": "Afficher les informations de version",
     "de": "Versionsinformationen anzeigen",
@@ -119,80 +80,19 @@
     "pt": "Mostrar informações da versão"
   },
   "Uninstall ProxMenu": {
+    "cs": "Odinstalovat ProxMenu",
     "es": "Desinstalar ProxMenu",
     "fr": "Désinstaller ProxMenu",
     "de": "ProxMenu deinstallieren",
     "it": "Disinstallare ProxMenu",
     "pt": "Desinstalar ProxMenu"
   },
-  "Select a new language for the menu:": {
-    "es": "Seleccione un nuevo idioma para el menú:",
-    "fr": "Sélectionnez une nouvelle langue pour le menu :",
-    "de": "Wählen Sie eine neue Sprache für das Menü:",
-    "it": "Seleziona una nuova lingua per il menu:",
-    "pt": "Selecione um novo idioma para o menu:"
-  },
-  "English (Recommended)": {
-    "es": "Inglés (recomendado)",
-    "fr": "Anglais (recommandé)",
-    "de": "Englisch (empfohlen)",
-    "it": "Inglese (consigliato)",
-    "pt": "Inglês (recomendado)"
-  },
-  "Spanish": {
-    "es": "Español",
-    "fr": "Espagnol",
-    "de": "Spanisch",
-    "it": "Spagnolo",
-    "pt": "Espanhol"
-  },
-  "French": {
-    "es": "Francés",
-    "fr": "Français",
-    "de": "Französisch",
-    "it": "Francese",
-    "pt": "Francês"
-  },
-  "German": {
-    "es": "Alemán",
-    "fr": "Allemand",
-    "de": "Deutsch",
-    "it": "Tedesco",
-    "pt": "Alemão"
-  },
-  "Italian": {
-    "es": "Italiano",
-    "fr": "Italien",
-    "de": "Italienisch",
-    "it": "Italiano",
-    "pt": "Italiano"
-  },
-  "Portuguese": {
-    "es": "Portugués",
-    "fr": "Portugais",
-    "de": "Portugiesisch",
-    "it": "Portoghese",
-    "pt": "Português"
-  },
-  "Simplified Chinese": {
-    "es": "Chino simplificado",
-    "fr": "Chinois simplifié",
-    "de": "Vereinfachtes Chinesisch",
-    "it": "Cinese semplificato",
-    "pt": "Chinês simplificado"
-  },
-  "Japanese": {
-    "es": "Japonés",
-    "fr": "Japonais",
-    "de": "Japanisch",
-    "it": "Giapponese",
-    "pt": "Japonês"
-  },
   "Thank you for using ProxMenu. Goodbye!": {
-  "es": "Gracias por usar ProxMenu. ¡Hasta luego!",
-  "fr": "Merci d'avoir utilisé ProxMenu. À bientôt !",
-  "de": "Vielen Dank, dass Sie ProxMenu verwendet haben. Bis bald!",
-  "it": "Grazie per aver usato ProxMenu. A presto!",
-  "pt": "Obrigado por usar o ProxMenu. Até logo!"
+    "cs": "Děkujeme za použití ProxMenu. Nashledanou!",
+    "es": "Gracias por usar ProxMenu. ¡Hasta luego!",
+    "fr": "Merci d'avoir utilisé ProxMenu. À bientôt !",
+    "de": "Vielen Dank, dass Sie ProxMenu verwendet haben. Bis bald!",
+    "it": "Grazie per aver usato ProxMenu. A presto!",
+    "pt": "Obrigado por usar o ProxMenu. Até logo!"
   }
 }
